@@ -1,0 +1,25 @@
+.line{
+    background-color: red;
+    color: white;
+    
+}
+.center{
+    width: 500px;
+    float: right;
+}
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+  }
+  .p3{
+    text-align: center;
+  }
+  .p2{
+    text-align: right;
+  }
+  h5{
+    text-align: right;
+  }
+  ol{
+    padding-left: 1em;
+  }
